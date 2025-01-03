@@ -1,0 +1,6 @@
+
+div {
+color:red;
+text-align: center;
+fon-size: 3rem;
+}   
